@@ -1,0 +1,13 @@
+.xyz{
+        height: 50px;
+        width: 300px;
+        margin: 10%;
+        background: red;
+}
+
+.xyz::after{
+        content: "";
+        background: green;
+        
+        
+}
